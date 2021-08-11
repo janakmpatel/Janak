@@ -1,1 +1,1 @@
-# Janak
+# optimization Course Project
